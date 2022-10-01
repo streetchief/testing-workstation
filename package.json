@@ -2,7 +2,7 @@
   "name": "testing-workstation",
   "version": "0.1.0",
   "description": "Testing",
-  "main": "index.js",
+  "main": "/src/lib.js",
   "scripts": {
     "test": "jest",
     "test:watch": "jest --watchAll"
