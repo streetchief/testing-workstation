@@ -1,6 +1,6 @@
 # Testing Workstation
 
-This is a simple test runner setup for playing with a function.
+This is a simple test runner setup for playing with a Javascript function.
 
 ## Installation
 
@@ -14,7 +14,6 @@ This is a simple test runner setup for playing with a function.
 * Edit [the source lib](./src/lib.js)
 * `npm test` for a single test run, or 
 * `npm run test:watch` to re-run tests on file change.
-
 
 ## Important Links
 
