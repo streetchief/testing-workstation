@@ -1,0 +1,15 @@
+{
+  "name": "testing-workstation",
+  "version": "0.1.0",
+  "description": "Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "author": "sam leavin",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
