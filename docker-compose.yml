@@ -1,0 +1,8 @@
+services:
+  workstation:
+    dockerfile: Dockerfile.javascript
+    volumes:
+      - /src:/usr/workstation:ro
+
+volumes:
+  workstation-code:
