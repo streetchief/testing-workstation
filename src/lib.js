@@ -4,5 +4,5 @@
  * 
  */
 exports.myFunction = (input) => {
-    return -1
+    return 1;
 };
